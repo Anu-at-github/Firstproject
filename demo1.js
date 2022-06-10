@@ -1,1 +1,4 @@
-console.log("my github demo");
+console.log("my git demo, its bit suspecious with cat logo......!!!");
+let a=2;
+let b=5;
+console.log(a+b);

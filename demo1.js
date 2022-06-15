@@ -5,3 +5,5 @@ let c=1000;
 let d=45;
 console.log(a+b);
 'this is first branch of main'
+let y=100;
+console.log(y-2);
